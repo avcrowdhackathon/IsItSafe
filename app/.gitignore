@@ -60,3 +60,6 @@ buck-out/
 
 /yarn.lock
 /.vscode
+
+/lib/config.js
+/android/app/google-services.json

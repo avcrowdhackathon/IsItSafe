@@ -15,7 +15,7 @@
       android:allowBackup="false"
       android:theme="@style/AppTheme">
 
-      <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyB8cy3I1XRvZNU9z1uSQcqk4VQNd8rOpr4" />
+      <meta-data android:name="com.google.android.geo.API_KEY" android:value="removed :)" />
 
       <uses-library android:name="org.apache.http.legacy" android:required="false"/>
 
